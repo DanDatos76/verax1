@@ -1,5 +1,7 @@
 // components/Sidebar.js
 import { BookOpen, User, Map, Users } from "lucide-react";
+import Link from "next/link";
+
 
 export default function Sidebar() {
   return (
@@ -30,9 +32,12 @@ export default function Sidebar() {
       </nav>
 
       {/* Botón Cerrar Sesión */}
-      <button className="mt-6 w-full border border-red-600 text-red-600 rounded-full py-2 hover:bg-red-50 transition">
-        Cerrar Sesión
-      </button>
+     <Link
+  href="/"
+  className="mt-6 w-full border border-red-600 text-red-600 rounded-full py-2 hover:bg-red-50 transition flex justify-center"
+>
+  Cerrar Sesión
+</Link>
     </div>
   );
 }

@@ -18,7 +18,7 @@ function Compañia() {
                 >
                   <div>
                     <p className="font-medium text-red-700">{c.nombre}</p>
-                    <p className="text-xs">
+                    <p className="text-xs mt-6 text-red-700">
                       Total de casos {c.total} - Casos abiertos {c.abiertos} -
                       Casos resueltos {c.resueltos}
                     </p>

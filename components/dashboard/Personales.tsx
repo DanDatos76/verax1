@@ -37,12 +37,12 @@ function Personales() {
             {/* Bloque izquierda: círculo + info */}
             <div className="flex items-center gap-3">
               {/* Circulo */}
-              <div className="w-8 h-8 rounded-full border border-red-700" />
+              <div className="w-12 h-12 rounded-full border border-red-700" />
 
               <div>
                 <p className="font-medium text-red-700">{p.nombre}</p>
-                <p className="text-xs text-gray-600">{p.rol}</p>
-                <p className="text-xs">
+                <p className="text-xs text-red-700">{p.rol}</p>
+                <p className="text-xs mt-6 text-red-700">
                   Total de casos {p.total} - Casos abiertos {p.abiertos} - Casos resueltos {p.resueltos}
                 </p>
               </div>
