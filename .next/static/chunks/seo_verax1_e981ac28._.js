@@ -14,7 +14,7 @@ function Metricas() {
         className: "grid grid-cols-4 gap-4 mb-6",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "border border-red-700 rounded-2xl p-4 text-center",
+                className: "border border-red-700 rounded-2xl p-4 text-left py-[35px]",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-sm text-gray-600",
@@ -25,7 +25,7 @@ function Metricas() {
                         columnNumber: 13
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-2xl font-bold text-red-700",
+                        className: "text-4xl font-medium text-red-700",
                         children: "29"
                     }, void 0, false, {
                         fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
@@ -36,10 +36,10 @@ function Metricas() {
             }, void 0, true, {
                 fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
                 lineNumber: 7,
-                columnNumber: 11
+                columnNumber: 3
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "border border-red-700 rounded-2xl p-4 text-center",
+                className: "border border-red-700 rounded-2xl p-4 text-left py-[35px]",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-sm text-gray-600",
@@ -50,7 +50,7 @@ function Metricas() {
                         columnNumber: 13
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-2xl font-bold text-red-700",
+                        className: "text-4xl font-medium text-red-700",
                         children: "9"
                     }, void 0, false, {
                         fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
@@ -61,57 +61,57 @@ function Metricas() {
             }, void 0, true, {
                 fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
                 lineNumber: 11,
-                columnNumber: 11
+                columnNumber: 3
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "border border-red-700 rounded-2xl p-4 text-center",
+                className: "border border-red-700 rounded-2xl p-4 text-left py-[35px]",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-sm text-gray-600",
                         children: "Casos resueltos"
                     }, void 0, false, {
                         fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
-                        lineNumber: 16,
+                        lineNumber: 18,
                         columnNumber: 13
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-2xl font-bold text-red-700",
+                        className: "text-4xl font-medium text-red-700",
                         children: "20"
                     }, void 0, false, {
                         fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
-                        lineNumber: 17,
+                        lineNumber: 19,
                         columnNumber: 13
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
-                lineNumber: 15,
-                columnNumber: 11
+                lineNumber: 16,
+                columnNumber: 3
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "border border-red-700 rounded-2xl p-4 text-center",
+                className: "border border-red-700 rounded-2xl p-4 text-left py-[35px]",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-sm text-gray-600",
                         children: "Tiempo promedio"
                     }, void 0, false, {
                         fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
-                        lineNumber: 20,
+                        lineNumber: 22,
                         columnNumber: 13
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-2xl font-bold text-red-700",
+                        className: "text-4xl font-medium text-red-700",
                         children: "25 días"
                     }, void 0, false, {
                         fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
-                        lineNumber: 21,
+                        lineNumber: 23,
                         columnNumber: 13
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/seo/verax1/components/dashboard/Metricas.tsx",
-                lineNumber: 19,
-                columnNumber: 11
+                lineNumber: 21,
+                columnNumber: 3
             }, this)
         ]
     }, void 0, true, {

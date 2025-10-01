@@ -250,7 +250,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_module
 ;
 const PanelHeader = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "mt-7 mb-7 flex items-center justify-between w-full",
+        className: "mt-5 mb-7 flex items-center justify-between w-full",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: [
@@ -277,7 +277,7 @@ const PanelHeader = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$seo$2f$verax1$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                className: "border border-red-400 text-red-500 text-sm px-4 py-1 rounded-full hover:bg-red-50 transition",
+                className: "border border-red-400 text-red-500 text-sm px-15 py-2 rounded-full hover:bg-red-50 transition mt-3",
                 children: "Filtrar"
             }, void 0, false, {
                 fileName: "[project]/seo/verax1/components/Titulopanel.tsx",

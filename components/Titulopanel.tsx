@@ -3,7 +3,7 @@ import React from "react";
 
 const PanelHeader = () => {
   return (
-    <div className="mt-7 mb-7 flex items-center justify-between w-full">
+    <div className="mt-5 mb-7 flex items-center justify-between w-full">
       {/* Texto */}
       <div>
         <h2 className="text-red-600 font-semibold text-m">Panel</h2>
@@ -11,7 +11,7 @@ const PanelHeader = () => {
       </div>
 
       {/* Botón */}
-      <button className="border border-red-400 text-red-500 text-sm px-4 py-1 rounded-full hover:bg-red-50 transition">
+      <button className="border border-red-400 text-red-500 text-sm px-15 py-2 rounded-full hover:bg-red-50 transition mt-3">
         Filtrar
       </button>
     </div>
