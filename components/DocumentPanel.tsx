@@ -19,8 +19,8 @@ const DocumentPanel = () => {
       </div>
 
       {/* Documento con borde azul */}
-      <div className="flex-1 border border-[#E40046] p-2">
-        <div className="border-2 border-blue-400 h-full flex items-center justify-center bg-white">
+      <div className="flex-1 border border-[#E40046] ">
+        <div className="border-2 border-blue-400  flex items-center justify-center bg-white">
           <span className="text-gray-400">Documento</span>
           <DocumentModelo />
         </div>

@@ -9,18 +9,22 @@ export default function Home() {
       {/* Sidebar */}
       <Sidebar2 />
 
-      <div className="flex flex-col flex-1">
-        {/* Header */}
+      {/* Contenedor principal para el Header y los Paneles */}
+      {/* Usamos flex-col para apilar el Header y luego los Paneles */}
+      <div className="flex flex-1 flex-col">
+        {/* Header - No necesita padding aquí si ya lo tiene internamente */}
         <Header />
 
-        <div className="mt-20 flex flex-1 p-4 gap-4">
+        {/* Contenedor de los Paneles - Ocupa el espacio restante */}
+        {/* Agregamos el padding aquí y quitamos el mt-20 */}
+        <div className="flex flex-1 p-6 gap-4"> {/* Eliminado mt-20 y movido p-6 aquí */}
           {/* Panel documento */}
-          <div className="flex-1 border border-[#E40046] rounded-lg p-4 bg-white">
+          <div className="flex-1 border border-black rounded-lg p-4 bg-white">
             <DocumentPanel />
           </div>
 
           {/* Panel chat */}
-          <div className="w-1/3 border border-[#E40046] rounded-lg p-4 flex flex-col">
+          <div className="w-1/2 border border-black rounded-lg p-4 flex flex-col">
             <ChatPanel />
           </div>
         </div>

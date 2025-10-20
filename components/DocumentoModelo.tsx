@@ -2,11 +2,11 @@
 
 const DocumentModelo = () => {
   return (
-    <div className="border-2 border-blue-400 bg-white h-3/5 p-6 overflow-y-auto">
+    <div className="border-2 border-blue-400 bg-white h-3/5 p-2 overflow-y-auto">
       {/* Logo + Header */}
       <div className="flex items-center justify-between border-b-2 border-[#E40046] pb-2 mb-4">
         <div className="flex items-center gap-2">
-          <div className="w-10 h-10 border border-[#E40046] flex items-center justify-center font-bold text-[#E40046]">
+          <div className="w-10 h-8 border border-[#E40046] flex items-center justify-center font-bold text-[#E40046]">
             V
           </div>
           <h1 className="text-xl font-bold text-[#E40046]">Verax</h1>
@@ -14,7 +14,7 @@ const DocumentModelo = () => {
       </div>
 
       {/* Requerente */}
-      <div className="mb-4 text-xs leading-5">
+      <div className="mb-1 text-xs leading-5">
         <p>
           <span className="font-semibold">REQUERENTE:</span> SANCOR SEGUROS
         </p>
@@ -30,7 +30,7 @@ const DocumentModelo = () => {
       </div>
 
       {/* Conclusiones */}
-      <div className="border border-[#E40046] p-3 text-xs mb-6">
+      <div className="border border-[#E40046] p-1 text-xs mb-6">
         <p className="font-bold text-[#E40046] mb-1">CONCLUSIONES Y SUGERENCIAS</p>
         <p>
           DOMICILIO USO COMERCIAL CONSTATADO - RECHAZAR
