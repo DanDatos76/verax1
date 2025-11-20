@@ -953,14 +953,6 @@
     border-color: #e40046;
   }
 
-  .border-\[\#e6e6e6\] {
-    border-color: #e6e6e6;
-  }
-
-  .border-\[\#efefef\] {
-    border-color: #efefef;
-  }
-
   .border-black {
     border-color: var(--color-black);
   }
@@ -987,10 +979,6 @@
 
   .border-red-600 {
     border-color: var(--color-red-600);
-  }
-
-  .border-white {
-    border-color: var(--color-white);
   }
 
   .bg-\[\#0B2C55\] {
@@ -1311,10 +1299,6 @@
     color: #000;
   }
 
-  .text-\[\#6b6b6b\] {
-    color: #6b6b6b;
-  }
-
   .text-\[\#9b9b9b\] {
     color: #9b9b9b;
   }
@@ -1417,12 +1401,6 @@
   @media (hover: hover) {
     .hover\:bg-\[\#34495E\]:hover {
       background-color: #34495e;
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:bg-gray-50:hover {
-      background-color: var(--color-gray-50);
     }
   }
 

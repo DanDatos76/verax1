@@ -14,6 +14,7 @@ export default function Home() {
       <div className="flex flex-1 flex-col">
         {/* Header - No necesita padding aquí si ya lo tiene internamente */}
         <Header />
+        
 
         {/* Contenedor de los Paneles - Ocupa el espacio restante */}
         {/* Agregamos el padding aquí y quitamos el mt-20 */}
